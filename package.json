@@ -16,8 +16,11 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@stripe/react-stripe-js": "^1.4.0",
+    "@stripe/stripe-js": "^1.13.2",
     "gatsby": "^3.2.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "stripe": "^8.143.0"
   }
 }
